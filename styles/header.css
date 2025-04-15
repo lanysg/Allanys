@@ -26,3 +26,10 @@
             display:block;
         }
     }
+    @media screen and (min-width:1024) }
+    .container__frase{
+        padding-left: 5em;
+        font-size: 20px;
+        display: block;
+    }
+}
